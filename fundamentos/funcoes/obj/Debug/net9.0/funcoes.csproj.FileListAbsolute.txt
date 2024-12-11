@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\bin\Debug\net9.0\funcoes.exe
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\bin\Debug\net9.0\funcoes.deps.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\bin\Debug\net9.0\funcoes.runtimeconfig.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\bin\Debug\net9.0\funcoes.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\bin\Debug\net9.0\funcoes.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\funcoes.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\funcoes.AssemblyInfo.cs
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\funcoes.sourcelink.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\funcoes.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\refint\funcoes.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\funcoes.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\funcoes.genruntimeconfig.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\funcoes\obj\Debug\net9.0\ref\funcoes.dll
