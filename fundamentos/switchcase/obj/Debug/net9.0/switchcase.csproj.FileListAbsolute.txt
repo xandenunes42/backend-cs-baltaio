@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\bin\Debug\net9.0\switchcase.exe
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\bin\Debug\net9.0\switchcase.deps.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\bin\Debug\net9.0\switchcase.runtimeconfig.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\bin\Debug\net9.0\switchcase.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\bin\Debug\net9.0\switchcase.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\switchcase.AssemblyInfo.cs
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\switchcase.sourcelink.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\switchcase.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\refint\switchcase.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\switchcase.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\switchcase.genruntimeconfig.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\switchcase\obj\Debug\net9.0\ref\switchcase.dll
