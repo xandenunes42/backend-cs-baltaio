@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\bin\Debug\net9.0\valueTypes-referenceTypes.exe
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\bin\Debug\net9.0\valueTypes-referenceTypes.deps.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\bin\Debug\net9.0\valueTypes-referenceTypes.runtimeconfig.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\bin\Debug\net9.0\valueTypes-referenceTypes.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\bin\Debug\net9.0\valueTypes-referenceTypes.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\valueTypes-referenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\valueTypes-referenceTypes.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\valueTypes-referenceTypes.AssemblyInfo.cs
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\valueTypes-referenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\valueTypes-referenceTypes.sourcelink.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\valueTypes-referenceTypes.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\refint\valueTypes-referenceTypes.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\valueTypes-referenceTypes.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\valueTypes-referenceTypes.genruntimeconfig.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\valueTypes-referenceTypes\obj\Debug\net9.0\ref\valueTypes-referenceTypes.dll
