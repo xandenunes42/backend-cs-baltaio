@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\bin\Debug\net9.0\stopwatch.exe
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\bin\Debug\net9.0\stopwatch.deps.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\bin\Debug\net9.0\stopwatch.runtimeconfig.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\bin\Debug\net9.0\stopwatch.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\bin\Debug\net9.0\stopwatch.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\stopwatch.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\stopwatch.AssemblyInfo.cs
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\stopwatch.sourcelink.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\stopwatch.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\refint\stopwatch.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\stopwatch.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\stopwatch.genruntimeconfig.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\stopwatch\obj\Debug\net9.0\ref\stopwatch.dll
