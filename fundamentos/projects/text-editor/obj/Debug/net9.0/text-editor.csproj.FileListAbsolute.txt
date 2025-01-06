@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\bin\Debug\net9.0\text-editor.exe
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\bin\Debug\net9.0\text-editor.deps.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\bin\Debug\net9.0\text-editor.runtimeconfig.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\bin\Debug\net9.0\text-editor.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\bin\Debug\net9.0\text-editor.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\text-editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\text-editor.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\text-editor.AssemblyInfo.cs
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\text-editor.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\text-editor.sourcelink.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\text-editor.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\refint\text-editor.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\text-editor.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\text-editor.genruntimeconfig.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\projects\text-editor\obj\Debug\net9.0\ref\text-editor.dll
