@@ -1,7 +1,7 @@
 ﻿static void Menu()
 {
     Console.Clear();
-    
+
     Console.WriteLine("Selecione uma opcao:\n1 - Criar novo arquivo\n2 - Editar arquivo existente\n0 - Sair");
 
     short option = short.Parse(Console.ReadLine());
@@ -35,6 +35,26 @@ static void EditFile()
 
     } while (Console.ReadKey().Key != ConsoleKey.Escape);
 
+    SaveFile(text);
+
+}
+
+static void SaveFile(string text)
+{
+    Console.Clear();
+
+    Console.WriteLine("Informe o caminho para salvar o arquivo:\n");
+
+    var path = Console.ReadLine();
+
+    using (var file = new StreamWriter(path))
+    {
+        file.Write(text);
+    }
+
+    Console.WriteLine($"Arquivo salvo com sucesso em {path}!");
+
+    Menu();
 }
 
 Menu();
