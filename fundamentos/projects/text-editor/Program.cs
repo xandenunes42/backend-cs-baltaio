@@ -16,7 +16,18 @@
 
 static void OpenFile()
 {
+    Console.Clear();
 
+    Console.WriteLine("Informe o caminho do arquivo:\n");
+
+    string path = Console.ReadLine();
+
+    using (var file = new StreamReader(path))
+    {
+        string text = file.ReadToEnd();
+
+        Console.WriteLine(text);
+    }
 }
 
 static void EditFile()
