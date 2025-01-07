@@ -24,7 +24,7 @@ static void OpenFile()
 
     Console.WriteLine("-------------------------------------");
 
-    using (var file = new StreamReader(path))
+    using (var file = new StreamReader(path)) //using -> utilizado para abrir e fechar arquivo
     {
         string text = file.ReadToEnd();
 
@@ -48,11 +48,11 @@ static void EditFile()
     do
     {
         text += Console.ReadLine();
-        text += Environment.NewLine;
+        text += Environment.NewLine; //quebra de linha
 
-    } while (Console.ReadKey().Key != ConsoleKey.Escape);
+    } while (Console.ReadKey().Key != ConsoleKey.Escape); //captura tecla ESC para terminar edicao
 
-    SaveFile(text);
+    SaveFile(text); //funcao para solicitar o caminho do arquivo e salvar
 
 }
 
