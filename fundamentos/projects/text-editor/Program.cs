@@ -2,7 +2,7 @@
 {
     Console.Clear();
 
-    Console.WriteLine("Selecione uma opcao:\n1 - Criar novo arquivo\n2 - Editar arquivo existente\n0 - Sair");
+    Console.WriteLine("Selecione uma opcao:\n1 - Abrir arquivo\n2 - Editar arquivo existente\n0 - Sair");
 
     short option = short.Parse(Console.ReadLine());
 
@@ -22,12 +22,18 @@ static void OpenFile()
 
     string path = Console.ReadLine();
 
+    Console.WriteLine("-------------------------------------");
+
     using (var file = new StreamReader(path))
     {
         string text = file.ReadToEnd();
 
         Console.WriteLine(text);
     }
+
+    Console.WriteLine("---------------------------------------\nFim do arquivo. Pressione enter para continuar !");
+    Console.ReadLine();
+    Menu();
 }
 
 static void EditFile()
@@ -64,7 +70,8 @@ static void SaveFile(string text)
     }
 
     Console.WriteLine($"Arquivo salvo com sucesso em {path}!");
-
+    Console.WriteLine("Pressione enter para continuar...");
+    Console.ReadLine();
     Menu();
 }
 
