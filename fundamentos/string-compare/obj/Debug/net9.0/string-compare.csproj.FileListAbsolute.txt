@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\bin\Debug\net9.0\string-compare.exe
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\bin\Debug\net9.0\string-compare.deps.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\bin\Debug\net9.0\string-compare.runtimeconfig.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\bin\Debug\net9.0\string-compare.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\bin\Debug\net9.0\string-compare.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\string-compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\string-compare.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\string-compare.AssemblyInfo.cs
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\string-compare.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\string-compare.sourcelink.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\string-compare.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\refint\string-compare.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\string-compare.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\string-compare.genruntimeconfig.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-compare\obj\Debug\net9.0\ref\string-compare.dll
