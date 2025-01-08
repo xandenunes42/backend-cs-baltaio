@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\bin\Debug\net9.0\interpolacao-de-strings.exe
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\bin\Debug\net9.0\interpolacao-de-strings.deps.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\bin\Debug\net9.0\interpolacao-de-strings.runtimeconfig.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\bin\Debug\net9.0\interpolacao-de-strings.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\bin\Debug\net9.0\interpolacao-de-strings.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\interpolacao-de-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\interpolacao-de-strings.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\interpolacao-de-strings.AssemblyInfo.cs
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\interpolacao-de-strings.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\interpolacao-de-strings.sourcelink.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\interpolacao-de-strings.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\refint\interpolacao-de-strings.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\interpolacao-de-strings.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\interpolacao-de-strings.genruntimeconfig.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\interpolacao-de-strings\obj\Debug\net9.0\ref\interpolacao-de-strings.dll
