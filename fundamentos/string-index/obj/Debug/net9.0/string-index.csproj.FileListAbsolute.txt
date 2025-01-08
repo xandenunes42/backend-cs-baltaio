@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\bin\Debug\net9.0\string-index.exe
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\bin\Debug\net9.0\string-index.deps.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\bin\Debug\net9.0\string-index.runtimeconfig.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\bin\Debug\net9.0\string-index.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\bin\Debug\net9.0\string-index.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\string-index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\string-index.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\string-index.AssemblyInfo.cs
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\string-index.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\string-index.sourcelink.json
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\string-index.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\refint\string-index.dll
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\string-index.pdb
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\string-index.genruntimeconfig.cache
+C:\Users\alexa\repositories\backend-cs-baltaio\fundamentos\string-index\obj\Debug\net9.0\ref\string-index.dll
