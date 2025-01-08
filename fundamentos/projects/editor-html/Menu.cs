@@ -7,7 +7,7 @@ public static class Menu
     public static void Show()
     {
         DrawScreen();
-        TextMenu();
+        MenuInside();
     }
 
     public static void DrawScreen()
@@ -46,7 +46,7 @@ public static class Menu
         }
     }
 
-    static void TextMenu()
+    static void MenuInside()
     {
         Console.SetCursorPosition(2, 1);
         Console.Write("HTML EDITOR");
