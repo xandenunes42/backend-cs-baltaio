@@ -1,4 +1,5 @@
 using System.Security.Principal;
+using EditorHtml;
 
 namespace MenuScreen;
 
@@ -8,6 +9,10 @@ public static class Menu
     {
         DrawScreen();
         MenuInside();
+
+        short op = short.Parse(Console.ReadLine());
+
+        HandleMenuOption(op);
     }
 
     public static void DrawScreen()
@@ -17,7 +22,7 @@ public static class Menu
         DrawLines();
     }
 
-    static void DrawLines()
+    public static void DrawLines()
     {
         Console.Write("\n");
         Console.Write("+");
@@ -30,7 +35,7 @@ public static class Menu
         Console.Write("+");
     }
 
-    static void DrawCollumns()
+    public static void DrawCollumns()
     {
         for(int i = 0; i <= 10; i++)
         {
@@ -46,7 +51,7 @@ public static class Menu
         }
     }
 
-    static void MenuInside()
+    public static void MenuInside()
     {
         Console.SetCursorPosition(2, 1);
         Console.Write("HTML EDITOR");
@@ -61,6 +66,15 @@ public static class Menu
         
         Console.SetCursorPosition(2, 11);
         Console.Write("OPCAO: ");
-        short op = short.Parse(Console.ReadLine());
+    }
+
+    public static void HandleMenuOption(short option)
+    {
+        switch(option)
+        {
+            case 1: Editor.Show(); break;
+            case 2: Console.WriteLine("Abrir"); break;
+            case 0: Environment.Exit(0); break;
+        }
     }
 }
